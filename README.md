@@ -9,7 +9,7 @@
 ## Acknowledgements
 
 - [Scikit-learn](https://scikit-learn.org/stable/)
-- [ How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
 
 - [ readme](https://readme.so/editor)
 ## Authors
